@@ -27,7 +27,7 @@ The server will start running on http://localhost:3000.
 
 # API Endpoints
 
-**\*\*\*\***Generate OTP****\*\*****
+********Generate OTP**********
 
 Endpoint: POST http://localhost:3000/authroutes/generateOTP
 
@@ -42,7 +42,7 @@ Response:
 "message": "OTP generated successfully. Please check your email."
 }
 
-**\*\*\*\***Login******\*******
+********Login*************
 Endpoint: http://localhost:3000/authroutes/login
 
 Request Body:
@@ -69,3 +69,6 @@ The application can be deployed to a server using any cloud platform like Vercel
 # Git Repository
 
 The public link to the Git repository is:https://github.com/soumyasri1/soumyaotplogin.GitHub.io
+
+# hosted Link
+https://otpbasedlogin-y9hh.onrender.com/

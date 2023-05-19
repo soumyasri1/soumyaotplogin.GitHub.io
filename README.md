@@ -68,4 +68,4 @@ The application can be deployed to a server using any cloud platform like Vercel
 
 # Git Repository
 
-The public link to the Git repository is:
+The public link to the Git repository is:https://github.com/soumyasri1/soumyaotplogin.GitHub.io
